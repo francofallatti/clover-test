@@ -1,0 +1,176 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Clover.RemotePayWindows/4.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Clover.RemotePayWindows/4.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Clover.RemotePayWindows/4.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Clover.RemotePayWindows/4.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CloverConnector.dll": {},
+          "lib/net45/CloverWindowsSDK.dll": {},
+          "lib/net45/CloverWindowsTransport.dll": {},
+          "lib/net45/LibUsbDotNet.LibUsbDotNet.dll": {},
+          "lib/net45/Newtonsoft.Json.dll": {},
+          "lib/net45/SuperSocket.ClientEngine.dll": {},
+          "lib/net45/WebSocket4Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clover.RemotePayWindows/4.0.6": {
+      "sha512": "zHJa8R9qd+N4EbGm1G9Mo7UQAI/Tdpru35SC0Oj0TBn7DspSU5BGlGJMewFEN4LuxsvNpVuA22xwUjqnp6OLfA==",
+      "type": "package",
+      "path": "clover.remotepaywindows/4.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "clover.remotepaywindows.4.0.6.nupkg.sha512",
+        "clover.remotepaywindows.nuspec",
+        "lib/net45/CloverConnector.XML",
+        "lib/net45/CloverConnector.dll",
+        "lib/net45/CloverWindowsSDK.dll",
+        "lib/net45/CloverWindowsTransport.dll",
+        "lib/net45/LibUsbDotNet.LibUsbDotNet.dll",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net45/SuperSocket.ClientEngine.dll",
+        "lib/net45/WebSocket4Net.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "clover.remotepaywindows >= 4.0.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Franco Fallatti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Franco Fallatti\\Desktop\\remote-pay-windows-examples\\SnpdConnectionExample\\SnpdConnectionExample.csproj",
+      "projectName": "SnpdConnectionExample",
+      "projectPath": "C:\\Users\\Franco Fallatti\\Desktop\\remote-pay-windows-examples\\SnpdConnectionExample\\SnpdConnectionExample.csproj",
+      "packagesPath": "C:\\Users\\Franco Fallatti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Franco Fallatti\\Desktop\\remote-pay-windows-examples\\SnpdConnectionExample\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Franco Fallatti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "clover.remotepaywindows": {
+            "target": "Package",
+            "version": "[4.0.6, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "agrhWi+a2MOB89pPQoy7YZVDNBAOIMHLSZ/ENXN8vy7bKvjMf/TNK7yu13k2xi6eDYwr8+qokQ99yDfTq3ZU1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franco Fallatti\\Desktop\\remote-pay-windows-examples\\SnpdConnectionExample\\SnpdConnectionExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franco Fallatti\\.nuget\\packages\\clover.remotepaywindows\\4.0.6\\clover.remotepaywindows.4.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
